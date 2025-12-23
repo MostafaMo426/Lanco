@@ -44,7 +44,7 @@ Lanco implements a robust **Client-Server Architecture** over TCP/IP:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/MostafaMo426/Lanco.git](https://github.com/your-username/lanco.git)
+    git clone [https://github.com/MostafaMo426/Lanco.git]
     ```
 2.  **Install dependencies:**
     ```bash
