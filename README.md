@@ -48,7 +48,7 @@ Lanco implements a robust **Client-Server Architecture** over TCP/IP:
     ```
 2.  **Install dependencies:**
     ```bash
-    cd lanco
+    cd Lanco
     flutter pub get
     ```
 3.  **Run on Device:**
